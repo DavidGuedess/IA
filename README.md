@@ -1,9 +1,9 @@
 Projeto desenvolvido na unidade curricular Intelegencia Artificial.
 
-#Tecnologias
+#Tecnologias:
 -Java
 
-#Descrição
+#Descrição:
 Implementação de uma MLP para classificação de hand-written digits ('2' vs '3')
 
 Accuracy do modelo: 89,25%
