@@ -1,9 +1,18 @@
-Projeto desenvolvido na unidade curricular Intelegencia Artificial.
+# Handwritten Digit Classification using a Multi-Layer Perceptron
 
-#Tecnologias:
--Java
+## Technologies
+- Java
 
-#Descrição:
-Implementação de uma MLP para classificação de hand-written digits ('2' vs '3')
+## Description (English)
+Implementation of a Multi-Layer Perceptron (MLP) for handwritten digit classification ('2' vs '3').  
+The neural network was trained using the backpropagation algorithm.
 
-Accuracy do modelo: 89,25%
+Model accuracy: **89.25%**
+
+---
+
+## Descrição (Português)
+Implementação de uma Multi-Layer Perceptron (MLP) para classificação de dígitos manuscritos ('2' vs '3').  
+A rede neuronal foi treinada utilizando o algoritmo de backpropagation.
+
+Accuracy do modelo: **89,25%**
